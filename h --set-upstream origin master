@@ -1,0 +1,57 @@
+[33mcommit 2de5805643d122eb7676948b08fc649813d388d4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;33mtag: [m[1;33msession1[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Ivanova Sofia <sofiaigorevna@outlook.com>
+Date:   Fri Feb 23 20:30:12 2024 +0300
+
+    first  commit in pursuit.txt
+
+[33mcommit 2b9819616658ab87fbc6d123193006de8090f927[m
+Merge: d932468 c091c11
+Author: Ivanova Sofia <sofiaigorevna@outlook.com>
+Date:   Fri Feb 23 20:20:32 2024 +0300
+
+    Merge branch 'feature'
+    
+    # Conflicts:
+    #       laba1/arrows.txt
+
+[33mcommit d932468db58d62418f7dcdebdb81be8b81d26fd4[m
+Author: Ivanova Sofia <sofiaigorevna@outlook.com>
+Date:   Fri Feb 23 20:13:29 2024 +0300
+
+    in master arrows.txt
+
+[33mcommit c091c112fe842990bc09dea646d7ae5f4a473328[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Ivanova Sofia <sofiaigorevna@outlook.com>
+Date:   Fri Feb 23 20:12:24 2024 +0300
+
+    in feature arrows.txt
+
+[33mcommit b8f22e73372cd970378e1295ee9d3a49fc111080[m
+Author: Ivanova Sofia <sofiaigorevna@outlook.com>
+Date:   Fri Feb 23 20:04:37 2024 +0300
+
+    add second commit at feature
+
+[33mcommit cefe65b5df8a7fe6339cc96f27461c1675673e2f[m
+Author: Ivanova Sofia <sofiaigorevna@outlook.com>
+Date:   Fri Feb 23 20:03:44 2024 +0300
+
+    add first commit at feature
+
+[33mcommit dde5e832d6f446d7b15ab2117c2343c68fd5b607[m[33m ([m[1;32mmain[m[33m, [m[1;32mfeatures[m[33m)[m
+Author: Sofia <105989641+ivanoovaaaaa@users.noreply.github.com>
+Date:   Fri Feb 23 19:46:12 2024 +0300
+
+    add two more lines to the song"
+
+[33mcommit 05653912f93993aee41e674b927c41428e27f0c5[m
+Author: Ivanova Sofia <sofiaigorevna@outlook.com>
+Date:   Fri Feb 23 19:41:32 2024 +0300
+
+    add first two lines in the song
+
+[33mcommit fe96707adbdb114932d2d3c8a4ff6dd6f144be7c[m
+Author: Sofia <105989641+ivanoovaaaaa@users.noreply.github.com>
+Date:   Fri Feb 23 19:33:05 2024 +0300
+
+    Initial commit
